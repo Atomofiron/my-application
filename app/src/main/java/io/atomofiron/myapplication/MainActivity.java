@@ -22,5 +22,6 @@ public class MainActivity extends Activity {
     }
 
     private void onButtonKekClick(View v) {
+        I.log(this, "kek");
     }
 }
